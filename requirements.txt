@@ -4,4 +4,4 @@ Flask
 scikit-learn
 requests
 Pillow
-gunicorn == 20.0.4
+gunicorn == 19.9.0
